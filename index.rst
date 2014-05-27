@@ -1,4 +1,4 @@
-Welcome to the Introduction to Rackspace Cloud!
+Welcome to the Introduction to Rackspace Cloud
 ===========================================================
 
 Contents:
