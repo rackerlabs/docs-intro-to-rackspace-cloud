@@ -10,5 +10,7 @@ Getting Support from a Racker
 Community Forums
 ----------------
 
-System Status: http://status.rackspace.com
-------------------------------------------
+System Status
+-------------
+
+ - URL: http://status.rackspace.com
