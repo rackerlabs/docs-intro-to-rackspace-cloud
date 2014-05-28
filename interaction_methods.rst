@@ -1,8 +1,10 @@
 Interaction Methods
 ===================
 
-Control Panel: https://mycloud.rackspace.com
---------------------------------------------
+Control Panel
+-------------
+
+ - URL: https://mycloud.rackspace.com
 
 Software Development Kits (SDKs)
 --------------------------------
