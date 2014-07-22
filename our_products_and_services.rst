@@ -24,12 +24,17 @@ Object Storage
 
  - Cloud Files
 
-Data Stores
------------
+Database Services
+-----------------
 
- - Cloud Big Data
  - Cloud Databases
+ - ObjectRocket
 
+Data Analytic Services
+----------------------
+
+- Cloud Big Data
+ 
 Additional Services
 -------------------
 
@@ -42,3 +47,4 @@ Additional Services
  - Cloud Orchestration
  - Cloud Queues
  - RackConnect
+
