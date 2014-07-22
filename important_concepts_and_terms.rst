@@ -68,6 +68,8 @@ It is important to note that global services are deployed to multiple regions to
 increase their availability. Interacting with the single instance of the service
 propagates relevant changes to all regions in which the service is deployed.
 
+.. _global-versus-uk-cloud:
+
 Global versus UK Cloud
 ----------------------
 
