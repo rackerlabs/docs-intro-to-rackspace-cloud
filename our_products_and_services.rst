@@ -1,7 +1,7 @@
 Rackspace Cloud Services
 ========================
 
-The Rackspace Cloud is a set of web services that deliver various infrastructure
+The Rackspace Cloud is a set of web services that provide various infrastructure
 resources and services on-demand.  This allows users to rapidly and
 programatically deploy, manage, and scale applications globally.  All Rackspace
 Cloud services are designed to be reliable, easy to use, and high-performing.
