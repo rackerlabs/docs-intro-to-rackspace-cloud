@@ -1,10 +1,11 @@
 Rackspace Cloud Services
 ========================
 
-The Rackspace Cloud is a set of web services that provide various infrastructure
-resources and services on-demand.  This allows users to rapidly and
-programatically deploy, manage, and scale applications globally.  All Rackspace
-Cloud services are designed to be reliable, easy to use, and high-performing.
+The Rackspace Cloud is a set of web services that provide a variety of
+infrastructure resources and services on-demand.  This allows users to rapidly
+and programatically deploy, manage, and scale applications globally.  All
+Rackspace Cloud services are designed to be reliable, easy to use, and high-
+performing.
 
 Our cloud is powered by `OpenStack <http://www.openstack.org>`_, the leading
 open source cloud Operating System.  By building applications on the Rackspace
