@@ -86,7 +86,7 @@ Database & Data Analytic Services
 
 Cloud Databases
 ^^^^^^^^^^^^^^^
-High performance, managed MySQL (including Percona and MariaDB) databases
+High performance, managed MySQL, Percona, and MariaDB databases
 deployed in minutes. Independently scale up RAM and storage as your database
 grows. Powered by the OpenStack `trove <https://wiki.openstack.org/wiki/Trove>`_
 project.
