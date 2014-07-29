@@ -25,8 +25,8 @@ Cloud Servers
 Virtual and bare metal servers delivered in minutes.  Available in multiple
 flavors of CPU, RAM, disk, and network ranging from general purpose to highly
 workload optimized.  Powered by the OpenStack `nova
-<https://wiki.openstack.org/wiki/Nova>`_ project and delivered using Open
-Compute hardware.
+<https://wiki.openstack.org/wiki/Nova>`_ project and delivered using `Open
+Compute <http://www.opencompute.org>`_ hardware.
 
 Cloud Images
 ^^^^^^^^^^^^
@@ -129,6 +129,16 @@ Cloud Backup
 Automated file level backups of your data saved to Cloud Files. Supports
 compression, de-duplication, and encryption.
  
+
+Supporting Services
+-------------------
+
+Cloud Identity
+^^^^^^^^^^^^^^
+Global identity service that provides authentication and authorization, a
+service catalog of available service endpoints, and enables role based access
+control (RBAC) across services.
+
 
 Other Services
 --------------
