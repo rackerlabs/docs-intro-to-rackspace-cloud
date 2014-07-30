@@ -130,14 +130,20 @@ Automated file level backups of your data saved to Cloud Files. Supports
 compression, de-duplication, and encryption.
  
 
-Supporting Services
--------------------
+Security & Supporting Services
+------------------------------
 
 Cloud Identity
 ^^^^^^^^^^^^^^
 Global identity service that provides authentication and authorization, a
 service catalog of available service endpoints, and enables role based access
-control (RBAC) across services.
+control (RBAC) across Rackspace Cloud services.
+
+Cloud Feeds
+^^^^^^^^^^^
+Provides an aggregated, near real time feed of system, usage, and security
+events across Rackspace Cloud services.  Useful for triggering automated
+processes, troubleshooting, security and compliance auditing, etc.
 
 
 Other Services
