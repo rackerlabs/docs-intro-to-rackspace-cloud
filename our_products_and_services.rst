@@ -25,8 +25,8 @@ Cloud Servers
 Virtual and bare metal servers delivered in minutes.  Available in multiple
 flavors of CPU, RAM, disk, and network ranging from general purpose to highly
 workload optimized.  Powered by the OpenStack `nova
-<https://wiki.openstack.org/wiki/Nova>`_ project and delivered using Open
-Compute hardware.
+<https://wiki.openstack.org/wiki/Nova>`_ project and delivered using `Open
+Compute <http://www.opencompute.org>`_ hardware.
 
 Cloud Images
 ^^^^^^^^^^^^
@@ -86,7 +86,7 @@ Database & Data Analytic Services
 
 Cloud Databases
 ^^^^^^^^^^^^^^^
-High performance, managed MySQL (including Percona and MariaDB) databases
+High performance, managed MySQL, Percona, and MariaDB databases
 deployed in minutes. Independently scale up RAM and storage as your database
 grows. Powered by the OpenStack `trove <https://wiki.openstack.org/wiki/Trove>`_
 project.
@@ -129,6 +129,22 @@ Cloud Backup
 Automated file level backups of your data saved to Cloud Files. Supports
 compression, de-duplication, and encryption.
  
+
+Security & Supporting Services
+------------------------------
+
+Cloud Identity
+^^^^^^^^^^^^^^
+Global identity service that provides authentication and authorization, a
+service catalog of available service endpoints, and enables role based access
+control (RBAC) across Rackspace Cloud services.
+
+Cloud Feeds
+^^^^^^^^^^^
+Provides an aggregated, near real time feed of system, usage, and security
+events across Rackspace Cloud services.  Useful for triggering automated
+processes, troubleshooting, security and compliance auditing, etc.
+
 
 Other Services
 --------------
