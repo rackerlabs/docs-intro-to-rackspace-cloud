@@ -19,8 +19,8 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   our_products_and_services
-   important_concepts_and_terms
+   what_is_the_rackspace_cloud
+   key_concepts
    accounts_and_billing
    interaction_methods
    architecture
